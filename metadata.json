@@ -1,0 +1,6 @@
+{
+  "name": "Magic Eraser AI",
+  "description": "High-fidelity offline image healing and content-aware eraser combined with server-side Gemini AI for smart distraction detection and text-to-erase masking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
